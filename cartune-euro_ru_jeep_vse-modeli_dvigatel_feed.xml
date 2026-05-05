@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 22:57">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3080099538">Двигатель для Jeep (все модели)</category>
+    </categories>
+    <offers>
+      <offer id="203901415351199994643965163607044482830" available="true" type="vendor.model">
+        <name>Двигатель Jeep Wrangler TJ 4.0L c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <price>124999</price>
+        <oldprice>137498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Jeep</vendor>
+        <model>Wrangler TJ 4.0L</model>
+        <description>Оригинальный контрактный двигатель 4.0L ERH для Jeep Wrangler TJ. Пробег 100 110 км, проверен на работоспособность. В комплекте с навесным оборудованием. Дефект: сломана</description>
+        <sales_notes>Пробег 100110 км, аукционный лист, дефект крышки</sales_notes>
+        <custom_label_0>Jeep</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Номер по производителю">4883025</param>
+        <param name="Пробег">100110 км</param>
+        <param name="Дефект">Сломана крышка трамблера</param>
+      </offer>
+      <offer id="233453983284396121716763249600366626384" available="true" type="vendor.model">
+        <name>Двигатель Jeep Wrangler TJ 4.0L с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <price>124999</price>
+        <oldprice>137498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Jeep</vendor>
+        <model>Wrangler TJ 4.0L</model>
+        <description>Контрактный двигатель 4.0L ERH от Jeep Wrangler TJ. Пробег 100 110 км, проверен. Возможна продажа без навесного оборудования. Есть аукционный лист. Дефект: сломана крышка</description>
+        <sales_notes>Пробег 100110 км, аукционный лист, дефект крышки</sales_notes>
+        <custom_label_0>Jeep</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Номер по производителю">4883025</param>
+        <param name="Пробег">100110 км</param>
+        <param name="Дефект">Сломана крышка трамблера</param>
+      </offer>
+      <offer id="9039564576712263816058336138484726038" available="true" type="vendor.model">
+        <name>Двигатель Jeep Wrangler TJ 4.0L заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <price>124999</price>
+        <oldprice>137498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Jeep</vendor>
+        <model>Wrangler TJ 4.0L</model>
+        <description>Двигатель 4.0L ERH для Jeep Wrangler TJ. Оригинальный пробег 100 110 км. Проверен на работоспособность. В наличии на складе в Москве. Дефект: сломана крышка трамблера</description>
+        <sales_notes>Пробег 100110 км, аукционный лист, дефект крышки</sales_notes>
+        <custom_label_0>Jeep</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Номер по производителю">4883025</param>
+        <param name="Пробег">100110 км</param>
+        <param name="Дефект">Сломана крышка трамблера</param>
+      </offer>
+      <offer id="27395291691228204961438233646952705801" available="true" type="vendor.model">
+        <name>Двигатель Jeep Wrangler TJ 4.0L купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <price>124999</price>
+        <oldprice>137498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Jeep</vendor>
+        <model>Wrangler TJ 4.0L</model>
+        <description>Контрактный двигатель 4.0L ERH от Jeep Wrangler TJ. Пробег 100 110 км. Работоспособность подтверждена. Дефект: сломана крышка трамблера. Предоставляем копию ГТД и договор</description>
+        <sales_notes>Пробег 100110 км, аукционный лист, дефект крышки</sales_notes>
+        <custom_label_0>Jeep</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Номер по производителю">4883025</param>
+        <param name="Пробег">100110 км</param>
+        <param name="Дефект">Сломана крышка трамблера</param>
+      </offer>
+      <offer id="163285972326505976861031549792634749182" available="true" type="vendor.model">
+        <name>Двигатель Jeep Wrangler TJ 4.0L по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <price>124999</price>
+        <oldprice>137498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Jeep</vendor>
+        <model>Wrangler TJ 4.0L</model>
+        <description>Оригинальный двигатель 4.0L ERH для Jeep Wrangler TJ. Пробег 100 110 км. Проверен. Дефект: сломана крышка трамблера. Цена указана за двигатель в сборе как на фото. Возможна</description>
+        <sales_notes>Пробег 100110 км, аукционный лист, дефект крышки</sales_notes>
+        <custom_label_0>Jeep</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Номер по производителю">4883025</param>
+        <param name="Пробег">100110 км</param>
+        <param name="Дефект">Сломана крышка трамблера</param>
+      </offer>
+      <offer id="162762153975591122419628507127868245374" available="true" type="vendor.model">
+        <name>Двигатель Jeep Wrangler TJ 4.0L узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <price>124999</price>
+        <oldprice>137498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Jeep</vendor>
+        <model>Wrangler TJ 4.0L</model>
+        <description>Двигатель 4.0L ERH от Jeep Wrangler TJ. Пробег 100 110 км. Рабочий. Дефект: сломана крышка трамблера. В наличии на складе в Москве. Предоставляем полный пакет документов</description>
+        <sales_notes>Пробег 100110 км, аукционный лист, дефект крышки</sales_notes>
+        <custom_label_0>Jeep</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">TJ</param>
+        <param name="Номер по производителю">4883025</param>
+        <param name="Пробег">100110 км</param>
+        <param name="Дефект">Сломана крышка трамблера</param>
+      </offer>
+      <offer id="44662938134337305746683017066528688405" available="true" type="vendor.model">
+        <name>Двигатель Jeep Grand Cherokee 2014 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <price>289999</price>
+        <oldprice>318998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Оригинальный контрактный двигатель 3.6L ERB для Jeep Grand Cherokee WK2 2014 года. Пробег 43 220 км, проверен на работоспособность. В комплекте аукционный лист и полный пакет</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Chrysler</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">5184895AG</param>
+        <param name="Пробег">43 220 км</param>
+      </offer>
+      <offer id="193314446982976245736499588407890432867" available="true" type="vendor.model">
+        <name>Двигатель Jeep Grand Cherokee 2014 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <price>289999</price>
+        <oldprice>318998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Двигатель в сборе с навесным оборудованием. Возможна продажа без навесного. Предоставим подробные фото и видео работы ДВС. Проверка эндоскопом по запросу</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Chrysler</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">5184895AG</param>
+        <param name="Пробег">43 220 км</param>
+      </offer>
+      <offer id="170929614007617417656859228830552133475" available="true" type="vendor.model">
+        <name>Двигатель Jeep Grand Cherokee 2014 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <price>289999</price>
+        <oldprice>318998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Контрактный двигатель ERB 3.6L от Jeep Grand Cherokee WK2 2014. Оригинальный пробег 43 220 км. В наличии на складе в Москве. Цена 289 999 руб</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Chrysler</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">5184895AG</param>
+        <param name="Пробег">43 220 км</param>
+      </offer>
+      <offer id="290445642959887628301264536592620316577" available="true" type="vendor.model">
+        <name>Двигатель Jeep Grand Cherokee 2014 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <price>289999</price>
+        <oldprice>318998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Двигатель с аукционным листом из Японии. Полный пакет документов: копия ГТД, договор купли-продажи. Возможна проверка эндоскопом</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Chrysler</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">5184895AG</param>
+        <param name="Пробег">43 220 км</param>
+      </offer>
+      <offer id="294701898162665364748209275289742484193" available="true" type="vendor.model">
+        <name>Двигатель Jeep Grand Cherokee 2014 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <price>289999</price>
+        <oldprice>318998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Двигатель 3.6L ERB для Jeep Grand Cherokee WK2 2014 года. Номер производителя 5184895AG. Проверен, работоспособность подтверждена</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Chrysler</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">5184895AG</param>
+        <param name="Пробег">43 220 км</param>
+      </offer>
+      <offer id="314572554504245482716718648385488216413" available="true" type="vendor.model">
+        <name>Двигатель Jeep Grand Cherokee 2014 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <price>289999</price>
+        <oldprice>318998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Jeep Grand Cherokee 2014</model>
+        <description>Оригинальный двигатель с японского аукциона. Пробег 43 220 км. В наличии в Москве. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Chrysler</custom_label_3>
+        <param name="Кузов">WKUH74</param>
+        <param name="Двигатель">ERB</param>
+        <param name="Год">2014</param>
+        <param name="Номер по производителю">5184895AG</param>
+        <param name="Пробег">43 220 км</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_203901415351199994643965163607044482830">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <name>Двигатель Jeep Wrangler TJ 4.0L c доставкой</name>
+        <description>Контрактная Двигатель Jeep Wrangler (кузов TJ)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+      </collection>
+      <collection id="col_233453983284396121716763249600366626384">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <name>Двигатель Jeep Wrangler TJ 4.0L с гарантией</name>
+        <description>Контрактная Двигатель Jeep Wrangler (кузов TJ)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+      </collection>
+      <collection id="col_9039564576712263816058336138484726038">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <name>Двигатель Jeep Wrangler TJ 4.0L заказать</name>
+        <description>Контрактная Двигатель Jeep Wrangler (кузов TJ)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+      </collection>
+      <collection id="col_27395291691228204961438233646952705801">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <name>Двигатель Jeep Wrangler TJ 4.0L купить</name>
+        <description>Контрактная Двигатель Jeep Wrangler (кузов TJ)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+      </collection>
+      <collection id="col_163285972326505976861031549792634749182">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <name>Двигатель Jeep Wrangler TJ 4.0L по низкой цене</name>
+        <description>Контрактная Двигатель Jeep Wrangler (кузов TJ)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+      </collection>
+      <collection id="col_162762153975591122419628507127868245374">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/</url>
+        <name>Двигатель Jeep Wrangler TJ 4.0L узнать стоимость</name>
+        <description>Контрактная Двигатель Jeep Wrangler (кузов TJ)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg</picture>
+      </collection>
+      <collection id="col_44662938134337305746683017066528688405">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <name>Двигатель Jeep Grand Cherokee 2014 c доставкой</name>
+        <description>Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+      </collection>
+      <collection id="col_193314446982976245736499588407890432867">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <name>Двигатель Jeep Grand Cherokee 2014 с гарантией</name>
+        <description>Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+      </collection>
+      <collection id="col_170929614007617417656859228830552133475">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <name>Двигатель Jeep Grand Cherokee 2014 заказать</name>
+        <description>Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+      </collection>
+      <collection id="col_290445642959887628301264536592620316577">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <name>Двигатель Jeep Grand Cherokee 2014 купить</name>
+        <description>Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+      </collection>
+      <collection id="col_294701898162665364748209275289742484193">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <name>Двигатель Jeep Grand Cherokee 2014 по низкой цене</name>
+        <description>Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+      </collection>
+      <collection id="col_314572554504245482716718648385488216413">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/</url>
+        <name>Двигатель Jeep Grand Cherokee 2014 узнать стоимость</name>
+        <description>Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>

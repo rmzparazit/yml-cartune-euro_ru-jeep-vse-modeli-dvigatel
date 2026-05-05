@@ -1,0 +1,141 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0de54d/": {
+        "fingerprint": "315f0e71b409fd238644f30abbde13b8",
+        "raw_data": {
+            "h1_title": "Двигатель Jeep Wrangler TJ 4.0L",
+            "brand": "Jeep",
+            "price_raw": "124999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_293.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_607.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_608.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_609.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/64/0009_64_610.jpg"
+            ],
+            "specs": {
+                "Марка": "Jeep",
+                "Модель": "Wrangler",
+                "Кузов": "TJ",
+                "Номер по производителю": "4883025",
+                "Производитель": "Mercedes-Benz",
+                "Пробег": "100110 км",
+                "Дефект": "Сломана крышка трамблера"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Двигатель 4.0L ERH Jeep Wrangler 2 TJ, пробег 100 110 км, проверен",
+            "sales_notes": "Пробег 100110 км, аукционный лист, дефект крышки трамблера",
+            "custom_labels": [
+                "Jeep",
+                "Контрактный",
+                "Двигатель",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Jeep Wrangler TJ 4.0L",
+                    "description": "Оригинальный контрактный двигатель 4.0L ERH для Jeep Wrangler TJ. Пробег 100 110 км, проверен на работоспособность. В комплекте с навесным оборудованием. Дефект: сломана крышка трамблера. Предоставляем аукционный лист и полный пакет документов."
+                },
+                {
+                    "title": "Двигатель Jeep Wrangler TJ 4.0L",
+                    "description": "Контрактный двигатель 4.0L ERH от Jeep Wrangler TJ. Пробег 100 110 км, проверен. Возможна продажа без навесного оборудования. Есть аукционный лист. Дефект: сломана крышка трамблера. Предоставим подробное фото и видео работы."
+                },
+                {
+                    "title": "Двигатель Jeep Wrangler TJ 4.0L",
+                    "description": "Двигатель 4.0L ERH для Jeep Wrangler TJ. Оригинальный пробег 100 110 км. Проверен на работоспособность. В наличии на складе в Москве. Дефект: сломана крышка трамблера. Возможна проверка эндоскопом по запросу."
+                },
+                {
+                    "title": "Двигатель Jeep Wrangler TJ 4.0L",
+                    "description": "Контрактный двигатель 4.0L ERH от Jeep Wrangler TJ. Пробег 100 110 км. Работоспособность подтверждена. Дефект: сломана крышка трамблера. Предоставляем копию ГТД и договор купли-продажи. Возможна продажа без навесного."
+                },
+                {
+                    "title": "Двигатель Jeep Wrangler TJ 4.0L",
+                    "description": "Оригинальный двигатель 4.0L ERH для Jeep Wrangler TJ. Пробег 100 110 км. Проверен. Дефект: сломана крышка трамблера. Цена указана за двигатель в сборе как на фото. Возможна продажа без навесного оборудования."
+                },
+                {
+                    "title": "Двигатель Jeep Wrangler TJ 4.0L",
+                    "description": "Двигатель 4.0L ERH от Jeep Wrangler TJ. Пробег 100 110 км. Рабочий. Дефект: сломана крышка трамблера. В наличии на складе в Москве. Предоставляем полный пакет документов, включая документы для постановки на учёт."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель [Марка] [Модель] [Кузов] [Объем] - [Пробег] км, [Состояние], [Дефект]",
+            "collection_description": "Контрактная Двигатель Jeep Wrangler (кузов TJ)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T22:56:39.636631"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da2b9/": {
+        "fingerprint": "2054ca0b8bd22689a18b822d6406b4a6",
+        "raw_data": {
+            "h1_title": "Двигатель Jeep Grand Cherokee 2014",
+            "brand": "Chrysler",
+            "price_raw": "289999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_575.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_576.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_577.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_578.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_579.jpg"
+            ],
+            "specs": {
+                "Марка": "Jeep",
+                "Модель": "GRAND CHEROKEE",
+                "Кузов": "WKUH74",
+                "Двигатель": "ERB",
+                "Год": "2014",
+                "Номер по производителю": "5184895AG",
+                "Производитель": "Chrysler",
+                "Пробег": "43 220 км"
+            },
+            "available": true,
+            "category_name": "Двигатель",
+            "category_usp": "",
+            "description_usp": "Двигатель 3.6L ERB Jeep Grand Cherokee WK2, пробег 43 220 км, проверен, с аукционным листом",
+            "sales_notes": "Цена за двигатель в сборе, возможна продажа без навесного",
+            "custom_labels": [
+                "Контрактный",
+                "Двигатель",
+                "Б/У",
+                "Chrysler"
+            ],
+            "variations": [
+                {
+                    "title": "Двигатель Jeep Grand Cherokee 2014",
+                    "description": "Оригинальный контрактный двигатель 3.6L ERB для Jeep Grand Cherokee WK2 2014 года. Пробег 43 220 км, проверен на работоспособность. В комплекте аукционный лист и полный пакет документов для постановки на учёт."
+                },
+                {
+                    "title": "Двигатель Jeep Grand Cherokee 2014",
+                    "description": "Двигатель в сборе с навесным оборудованием. Возможна продажа без навесного. Предоставим подробные фото и видео работы ДВС. Проверка эндоскопом по запросу."
+                },
+                {
+                    "title": "Двигатель Jeep Grand Cherokee 2014",
+                    "description": "Контрактный двигатель ERB 3.6L от Jeep Grand Cherokee WK2 2014. Оригинальный пробег 43 220 км. В наличии на складе в Москве. Цена 289 999 руб."
+                },
+                {
+                    "title": "Двигатель Jeep Grand Cherokee 2014",
+                    "description": "Двигатель с аукционным листом из Японии. Полный пакет документов: копия ГТД, договор купли-продажи. Возможна проверка эндоскопом."
+                },
+                {
+                    "title": "Двигатель Jeep Grand Cherokee 2014",
+                    "description": "Двигатель 3.6L ERB для Jeep Grand Cherokee WK2 2014 года. Номер производителя 5184895AG. Проверен, работоспособность подтверждена."
+                },
+                {
+                    "title": "Двигатель Jeep Grand Cherokee 2014",
+                    "description": "Оригинальный двигатель с японского аукциона. Пробег 43 220 км. В наличии в Москве. Возможна продажа без навесного оборудования."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Двигатель {Марка} {Модель} {Год} {Двигатель} {Номер по производителю} контрактный",
+            "collection_description": "Контрактная Двигатель Chrysler GRAND CHEROKEE (кузов WKUH74, двс ERB)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T22:57:07.397203"
+    }
+}
